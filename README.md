@@ -1,7 +1,6 @@
 # README
 This project contains all jupyter-notebooks of the [Data Mining Lab]((https://www.hdm-stuttgart.de/~maucher/Data_Mining_WS1516.html))
 
-Note that the jupyter-notebooks can be viewed online on this GitLab site. However, GitLab currently doesn't render the images in the notebook correctly. In order to see them you should download the project and run the notebooks on your local machine.
 
 ## Jupyter Notebooks for Introduction
 
