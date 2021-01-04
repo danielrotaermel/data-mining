@@ -11,8 +11,7 @@ This project contains all jupyter-notebooks of the [Data Mining Lab]((https://ww
 
 ## Exercises on Python, Numpy, Matplotlib and Pandas
 
-* [Exercises for Introduction](Aufgaben zur Einarbeitung in das Data Mining Praktikum.ipynb) 
-
+* [Exercises for Introduction](Aufgaben%20zur%20Einarbeitung%20in%20das%20Data%20Mining%20Praktikum.ipynb)
 
 
 ## Lab Exercise Instruction Notebooks
